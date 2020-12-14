@@ -1,0 +1,8 @@
+spec:
+  template:
+    spec:
+      containers:
+        - ports:
+          - containerPort: 9990
+            name: management
+            protocol: TCP

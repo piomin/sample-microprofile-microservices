@@ -1,0 +1,3 @@
+# Project exclude paths
+/department-service/target/
+/employee-service/target/
